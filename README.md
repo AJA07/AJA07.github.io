@@ -12,9 +12,9 @@
 
 ## 5. Manchego
 
-## 4. Gouda
+## 4. Parmigiano-Reggiano
 
-## 3. Parmigiano-Reggiano
+## 3. Swiss
 
 ## 2. Cheddar
 
