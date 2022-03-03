@@ -52,14 +52,16 @@ Cheddar cheese, also known as cheddar, is a relatively hard, off-white, or orang
 
 Mozzarella is a southern Italian cheese traditionally made from Italian buffalo's milk by the pasta filata method. It is generally white but when seasoned it turns to a light yellow depending on the animal's diet. Mozzarella is used for most types of pizza and several pasta dishes or served with sliced tomatoes and basil in Caprese salad. It is traditionally served the day after it is made but can be kept in brine for up to a week or longer when sold in vacuum-sealed packages.
 
+### This is my 10 cheese tier list. This is only my oppinion and not a credible scource. Thank you.
+
 ### Sources:
-- https://en.wikipedia.org/wiki/Camembert
-- https://en.wikipedia.org/wiki/Feta
-- https://en.wikipedia.org/wiki/Taleggio_cheese
-- https://en.wikipedia.org/wiki/Cotija_cheese
-- https://en.wikipedia.org/wiki/Monterey_Jack
-- https://en.wikipedia.org/wiki/Manchego
-- https://en.wikipedia.org/wiki/Parmesan
-- https://en.wikipedia.org/wiki/American_cheese
-- https://en.wikipedia.org/wiki/Cheddar_cheese
-- https://en.wikipedia.org/wiki/Mozzarella
+- [Camebert](https://en.wikipedia.org/wiki/Camembert)
+- [Feta](https://en.wikipedia.org/wiki/Feta)
+- [Taleggio](https://en.wikipedia.org/wiki/Taleggio_cheese)
+- [Cotija](https://en.wikipedia.org/wiki/Cotija_cheese)
+- [Monterey_Jack](https://en.wikipedia.org/wiki/Monterey_Jack)
+- [Manchego](https://en.wikipedia.org/wiki/Manchego)
+- [Parmesan](https://en.wikipedia.org/wiki/Parmesan)
+- [American_cheese](https://en.wikipedia.org/wiki/American_cheese)
+- [Cheddar](https://en.wikipedia.org/wiki/Cheddar_cheese)
+- [Mozzarella](https://en.wikipedia.org/wiki/Mozzarella)
